@@ -35,7 +35,7 @@ The following files are used to design and implement a PI Controller.
 The following file integrate PI control with PV control (PIV Controller)
 * PIVexperiment.slx
 
-### PI Control With Lag Compensatory
+### PI Control With Lag Compensator
 The following file integrate PI control with a lag compensator
 * LagWithPIController.slx
 
