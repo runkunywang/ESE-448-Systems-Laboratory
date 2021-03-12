@@ -40,7 +40,7 @@ The following file integrate PI control with a lag compensator
 * LagWithPIController.slx
 
 ## Final Project
-The following file contains the model of a ball beam connected to a servo and controllers that control the balls position on the beam through the servo.
+The following file contains the model of a ball beam connected to a servo and controllers that control the ball's position on the beam through the servo.
 * FinalProject.slx
 
 ### Controller Evaluation
